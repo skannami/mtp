@@ -1,0 +1,23 @@
+html{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(244,233,242);
+    display: block;
+}
+.contentarea{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(255, 243, 253);
+    padding:8px;
+}
+.h2{
+  color: rgb(186,33,33);
+    display: block;
+    background-color: rgb(255,236,175);
+    border-bottom: 1px solid rgb(178,178,230);
+    border-top: 2mm ridge rgba(255,129,51,0.6);
+}
+.nocopy {
+    user-select: none;
+}
